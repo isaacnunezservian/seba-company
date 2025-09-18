@@ -18,9 +18,9 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Son Doong Expeditions — Journey to the World's Largest Cave",
+  title: "SEBA COMPANY — Soluciones en Despacho Aduanero",
   description:
-    "Book a once-in-a-lifetime expedition into Son Doong, the world's largest cave. Discover a lost world of giant stalagmites, underground rivers, and a unique jungle ecosystem.",
+    "Soluciones integrales en despacho aduanero y logística internacional: experiencia, agilidad y cumplimiento normativo para optimizar sus importaciones y exportaciones.",
   generator: "v0.app",
 }
 
