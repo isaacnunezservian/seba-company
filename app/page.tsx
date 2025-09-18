@@ -98,7 +98,7 @@ const faqs = [
 
             {/* Subheading */}
             <p className="text-xl md:text-2xl text-white/90 max-w-4xl mb-12 leading-relaxed text-pretty">
-              Soluciones integrales en despacho aduanero y logística internacional: experiencia, agilidad y cumplimiento normativo para optimizar sus importaciones y exportaciones.
+              Soluciones integrales en despacho aduanero: experiencia, agilidad y cumplimiento normativo para optimizar sus importaciones y exportaciones.
             </p>
 
             {/* CTA Buttons */}
